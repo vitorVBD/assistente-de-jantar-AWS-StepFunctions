@@ -9,7 +9,7 @@ Projeto feito em parceria com a [DIO](https://www.dio.me/), para a criação de 
 - [📄 Índice](#-índice)
 - [🔧 Ferramentas](#-ferramentas)
 - [🔀 O que é um Workflow?](#-o-que-é-um-Workflow)
-- [⚙️ Quais são as vantagens de um Workflow?](#-Quais-são-as-vantagens-de-um-Workflow)
+- [⚙️ Quais são as vantagens de um Workflow?](#-vantagens-de-um-Workflow)
 - [🤖 AWS Step Functions e Workflows](#-AWS-Step-Functions-e-Workflows)
 - [📖 Material de Apoio](#-Material-de-Apoio)
 
@@ -32,7 +32,7 @@ Workflow é uma sequência de tarefas, etapas ou processos que são executados p
 - Orquestrar processos
 - Melhor visualizar o fluxo de trabalho
 
-## ⚙️ Quais são as vantagens de um Workflow?
+## ⚙️ Vantagens de um Workflow
 
 - Aumento da eficiência: Automatiza tarefas repetitivas, reduzindo o tempo de execução e liberando seus colaboradores para atividades mais estratégicas.
 - Melhoria da qualidade: Garante que os processos sejam seguidos de forma consistente, reduzindo o risco de erros e aumentando a qualidade dos resultados.
