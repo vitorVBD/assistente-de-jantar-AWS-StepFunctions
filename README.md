@@ -7,10 +7,9 @@ Projeto feito em parceria com a [DIO](https://www.dio.me/), para a criação de 
 ## 📄 Índice
 
 - [📄 Índice](#-índice)
-- [📁 Arquivo](#-arquivo)
 - [🔧 Ferramentas](#-ferramentas)
-- [🔀 O que é um Workflow?](#-o-que-é-um-Workflow?)
-- [⚙️ Quais são as vantagens de um Workflow?](#-Quais-são-as-vantagens-de-um-Workflow?)
+- [🔀 O que é um Workflow?](#-o-que-é-um-Workflow)
+- [⚙️ Quais são as vantagens de um Workflow?](#-Quais-são-as-vantagens-de-um-Workflow)
 - [🤖 AWS Step Functions e Workflows](#-AWS-Step-Functions-e-Workflows)
 - [📖 Material de Apoio](#-Material-de-Apoio)
 
