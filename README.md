@@ -10,8 +10,10 @@ Projeto feito em parceria com a [DIO](https://www.dio.me/), para a criação de 
 - [🔧 Ferramentas](#-ferramentas)
 - [🔀 O que é um Workflow?](#-o-que-é-um-Workflow)
 - [⚙️ Vantagens de um Workflow](#️-vantagens-de-um-workflow)
-- [🤖 AWS Step Functions e Workflows](#-AWS-Step-Functions-e-Workflows)
+- [🌐 AWS Step Functions e Workflows](#-AWS-Step-Functions-e-Workflows)
+- [🤖 O que o Assistente para um jantar faz?](#-o-que-o-assistente-para-um-jantar-faz)
 - [📖 Material de Apoio](#-Material-de-Apoio)
+- [🧑‍💻 Minhas redes](#-minhas-redes)
 
  | 📁 Arquivo |  Descrição |
  | :--: | :--:|
@@ -39,9 +41,15 @@ Workflow é uma sequência de tarefas, etapas ou processos que são executados p
 - Maior visibilidade: Permite acompanhar o progresso dos processos em tempo real, facilitando a tomada de decisões e o gerenciamento de riscos.
 - Escalabilidade: Adapta-se facilmente a diferentes volumes de trabalho, permitindo que você aumente ou diminua a capacidade de processamento conforme necessário.
 
-## 🤖 AWS Step Functions e Workflows
+## 🌐 AWS Step Functions e Workflows
 
 A AWS Step Functions é uma ferramenta poderosa para criar e orquestrar workflows. Ela permite que você modele seus processos de forma visual, apenas clicando e arrastando, utilizando estados e transições, sem a necessidade de saber linguagens de programação e integra-se facilmente com outros serviços da AWS.
+
+## 🤖 O que o Assistente para um jantar faz?
+
+- No primeiro processo, um prompt é criado, atribuindo a função de especialista em gastronomia para a Inteligência Artificial e pedindo para que ela dê sugestões de preparo de um determinado prato, dando dicas para melhorar a receita e, também, fornece 3 sugestões para melhorar a experiência no geral.
+- No segundo processo, um segundo prompt é criado, atribuindo a função de sommelier de bebidas para a IA e pedindo para que ela dê 3 opções de bebida que acompanhem bem o resultado da receita anterior.
+- No terceiro processo, um terceiro prompt é criado, dessa vez sem atribuição de função, pedindo para que, baseado nas outras 2 respostas, a IA dê sugestões de alguns locais para ser realizado o jantar.
 
 ## 📖 Material de Apoio
 
